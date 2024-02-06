@@ -4,6 +4,10 @@ Forkify is a recipe application built with JavaScript, HTML, and CSS. It allows 
 
 ![Forkify Screenshot](screenshot.png)
 
+## Netlify link
+
+(https://forkify-trpimir.netlify.app/#5ed6604591c37cdc054bca3b)
+
 ## Features
 
 - **Search**: Search for recipes using keywords or ingredients.
